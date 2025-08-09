@@ -29,8 +29,8 @@ var config = {
             image: '',
             description: '',
             location: {
-                center: [28.975,41.014],
-                zoom: 12,
+                center: [28.966,41.010],
+                zoom: 13,
                 pitch: 0,
                 bearing: 0
             },
@@ -59,8 +59,8 @@ var config = {
             image: 'https://i.ibb.co/xSTzWPs4/MEF-AAP-027-BAP-2025-07-17-13-23-13.png',
             description: '',
             location: {
-                center: [28.975,41.014],
-                zoom: 15,
+                center: [28.966,41.010],
+                zoom: 14,
                 pitch: 0,
                 bearing: 0
             },
@@ -89,8 +89,8 @@ var config = {
             image: 'https://i.ibb.co/JWvJxHKD/1-1-1.gif',
             description: 'The image was created for the project titled ’Interactive Mapping of Istanbul’s Metabolism (MEF AAP 027)’. Project Coordinator: Dr. Esra Sert (2024–2025). ',
             location: {
-                center: [28.975,41.014],
-                zoom: 17,
+                center: [28.966,41.010],
+                zoom: 14,
                 pitch: 0,
                 bearing: 0
             },
@@ -119,8 +119,8 @@ var config = {
             image: 'https://i.ibb.co/HMDfsVS/MEF-AAP-027-BAP-2025-07-17-13-51-27.png',
             description: '',
             location: {
-                center: [28.975,41.014],
-                zoom: 17,
+                center: [28.966,41.010],
+                zoom: 14,
                 pitch: 0,
                 bearing: 0
             },
